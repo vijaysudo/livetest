@@ -1,0 +1,10 @@
+Mar 20, 2024 9:39:12 PM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: test
+Mar 20, 2024 9:39:12 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3160.vd76b_9ddd10cc
+Mar 20, 2024 9:39:12 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using /home/administrator/Desktop/servertest/remoting as a remoting work directory
+Mar 20, 2024 9:39:12 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: WebSocket connection open
+Mar 20, 2024 9:39:12 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
